@@ -27,7 +27,7 @@ What You've Been Told is Totally False
 Mark accidentally avoided the most simple advice that everyone hears but pays no attention to, he did in fact let the bed bugs bite...
 
 
-[timePasses](project1photos/pic1.jpeg) 
+![timepasses](project1/timepassees.webp)
 
 
 This American Life
